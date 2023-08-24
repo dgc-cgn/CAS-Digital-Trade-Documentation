@@ -1,4 +1,6 @@
-# Scheme Name: Digital Trade Documentation
+# Conformity Assessment Scheme: Digital Trade Documentation
+
+This Conformity Assessment Scheme (CAS) is a profile under the [Digital Trust Conformity Assessment Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust). Unless otherwise specified, this CAS is subject to the policies and procedures of the Digital Governance Council. Further details may be found at [Public Information](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.mdhttps://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.md)
 
 ## Introduction
 
