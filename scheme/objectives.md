@@ -4,6 +4,7 @@
 The objective of the conformity assessment of products, processes or services is to give confidence to all interested parties that a product, process or service fulfills specified requirements. The value of a conformity assessment scheme is to contribute to the degree of confidence and trust that can established by an impartial and competent demonstration of fulfillment of specified requirements carried out by a third-party.
 
 A conformity assessment scheme:
+
 * provides consumers (users) of products with sufficient information to allow them to make informed decisions on products and services;
 * assists the suppliers to achieve market acceptance. If the product has a recognizable mark on it consumers may be more willing to make the purchase;
 * can play a role in regulated products (subject to technical regulations);
