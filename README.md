@@ -1,5 +1,7 @@
 # Conformity Assessment Scheme: Digital Trade Documentation
 
+## Notice
+
 This Conformity Assessment Scheme (CAS) is a profile under the [Digital Trust Conformity Assessment Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust). Unless otherwise specified, this CAS is subject to the policies and procedures of the Digital Governance Council. Further details may be found at [Public Information](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.mdhttps://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.md)
 
 ## Introduction
@@ -33,6 +35,10 @@ Common types of trade documentation include:
 * **Customs Declaration:** A form that provides information about the goods being imported or exported, including their value, classification, and other details required by customs authorities.
 
 The specific trade documents required can vary depending on the nature of the goods, the countries involved, and the terms of the trade agreement. It's essential for businesses engaged in international trade to understand and properly manage trade documentation to ensure the smooth flow of goods and compliance with regulations.
+
+## Hypothesis
+
+DSI digital supply chain certification could speed adoption of digital trade standards, while providing value for certification holders
 
 ## From Paper to Electronic to Digital
 
