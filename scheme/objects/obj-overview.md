@@ -2,7 +2,6 @@
 
 ## Conformance with Model Law on Electronic Transferable Records
 
-
 ![Diagram](obj-conformity.png)
 
 ## Conformance Coverage
@@ -17,15 +16,15 @@
 | Article 6     | Additional information in electronic transferable records|
 | Article 7     | Legal recognition of an electronic transferable record|
 | Article 8     | Writing|[Applies](./writing.md)|
-| Article 9     | Signature|X|
-| Article 10    | Transferable documents or instruments|X|
-| Article 11    | Control|X|
-| Article 12    | General reliability standard|X|
-| Article 13    | Indication of time and place in electronic transferable records|X|
-| Article 14    | Place of business|X|
-| Article 15    | Endorsement|X|
-| Article 16    | Amendment|X|
-| Article 17    | Replacement of an electronic transferable record with an electronic transferable record|X|
-| Article 18    | Replacement of an electronic transferable record with a transferable document or instrument|X|
+| Article 9     | Signature|Applies|
+| Article 10    | Transferable documents or instruments|Applies|
+| Article 11    | Control|Applies|
+| Article 12    | General reliability standard|Applies|
+| Article 13    | Indication of time and place in electronic transferable records|Applies|
+| Article 14    | Place of business|Applies|
+| Article 15    | Endorsement|Applies|
+| Article 16    | Amendment|Applies|
+| Article 17    | Replacement of an electronic transferable record with an electronic transferable record|Applies|
+| Article 18    | Replacement of an electronic transferable record with a transferable document or instrument|Applies|
 | Article 19    | Non-discrimination of foreign electronic transferable records|
 
