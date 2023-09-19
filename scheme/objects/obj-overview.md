@@ -8,11 +8,12 @@ These strategic outcomes are underpinned by two broad characteristics: **Reliabi
 * **General Reliability** as reliable as appropriate for the fulfilment of the function for which the method is being used.
 * **General Interoperability** interoperabilty as appropriate for ease of transferabilty through various ecosystems.
 * **Functional Equivalence** the production of same outcomes or results despite variations in methods.
+* **Technical Standards/Specifications, Data Formats** that have been adopted/implemented by the digital trade community.
 
 
 ![Diagram](obj-conformity.png)
 
-## Authoritiative Documents
+## Authoritative Documents
 
 * [MLETR](/docs/mletr_ebook_e.pdf)
 * [Trust In Trade](/docs/20230324-ICC-DSI%20TTE-vF.pdf)
