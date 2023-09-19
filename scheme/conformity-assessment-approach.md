@@ -1,4 +1,5 @@
 # Conformity Assessess Approach
+
 The conformity assessment approach uses a functional approach as set out in ISO/IEC 17000.
 
 For a more general overview, please see [conformity assessment process](./conformity-assessment-process.md)
@@ -14,11 +15,11 @@ For each object of conformity of assessment, the following MUST be specified and
 5. Determination of outputs that will be used as input into the review, decision and attestation stage.
 
 
-# Review, decision and attestation
+## Review, decision and attestation
 
 1. **Review:** The final stage of checking before taking the decision as to whether or not the object of conformity assessment e.g. product, service and system, has been reliably demonstrated to fulfil the specified requirements.
 2. **Attestation:** The creation of a “statement of conformity”, which is a generic expression used to include all means of communicating that fulfilment of specified requirements has been demonstrated. It should be noted that a "statement of conformity" can include non fulfilment of specified requirements.
 
-# Surveillance
+## Surveillance
 
 As required.
