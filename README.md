@@ -8,7 +8,7 @@ This Conformity Assessment Scheme (CAS) is a profile under the [Digital Trust Co
 
 ![Scheme Overview](./scheme/objects/obj-conformity.png)
 
-## Introduction
+## Background and Context
 
 Digital Trade Documentation refers to the various types of records that are generated and exchanged during the process of international trade. These documents are essential for facilitating and regulating the movement of goods and services across borders and ensuring that transactions are conducted legally and efficiently. Trade documentation serves several important purposes, including:
 
