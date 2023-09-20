@@ -4,6 +4,10 @@
 
 This Conformity Assessment Scheme (CAS) is a profile under the [Digital Trust Conformity Assessment Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust). Unless otherwise specified, this CAS is subject to the policies and procedures of the Digital Governance Council. Further details may be found at [Public Information](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.mdhttps://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.md)
 
+## Overview
+
+![Scheme Overview](./scheme/objects/obj-conformity.png)
+
 ## Introduction
 
 Digital Trade Documentation refers to the various types of records that are generated and exchanged during the process of international trade. These documents are essential for facilitating and regulating the movement of goods and services across borders and ensuring that transactions are conducted legally and efficiently. Trade documentation serves several important purposes, including:
