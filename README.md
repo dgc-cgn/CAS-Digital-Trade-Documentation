@@ -18,9 +18,7 @@ Digital Trade Documentation refers to the various types of records that are gene
 
 * **Customs Clearance:** Customs authorities in importing and exporting countries require trade documents to assess and collect duties and taxes, verify the value and origin of goods, and ensure that the goods meet all regulatory requirements. Proper documentation is crucial for smooth customs clearance.
 
-* **Payment and Finance:** Trade documents are often used in financial transactions. Banks and financial institutions may require certain documents, such as bills of lading and letters of credit, to facilitate payment between the parties involved in the trade.
-
-* **Risk Mitigation:** Trade documents can help mitigate risks associated with international trade. For example, a letter of credit issued by a bank can provide assurance to the exporter that they will be paid, even if the importer defaults.
+* **Payment and Finance:** Trade documents facilitate payments, payment risk mitigations and finance between the parties involved in trade.
 
 * **Record-Keeping:** Trade documentation serves as a historical record of a trade transaction. This can be important for auditing purposes, resolving disputes, and tracking the movement of goods.
 
@@ -44,11 +42,11 @@ The specific trade documents required can vary depending on the nature of the go
 
 ## Hypothesis
 
-DSI digital supply chain certification could speed adoption of digital trade standards, while providing value for certification holders
+DSI digital supply chain certification could speed adoption of digital services replacing paper documentation, as it spurs standardisation and so alleviates system reliability and interoperability.
 
 ## From Paper to Electronic to Digital
 
-For millenia, **paper** has been the standard substrate for trade, signed in wet ink by an authority. The next phase was **electronic** which were initially paper substitutes, evolving to **structured data** that forms the basis of most trade documentation today. The next phase is toward **authentic structured data**, cryptographically signed data that is independently verifiable across the many trust domains of digital trade.
+For millenia, **paper** has been the standard substrate for trade, signed in wet ink by an authority. The next phase is **electronic** which is initially paper substitutes, evolving to **structured data** that is forming the basis of trade documentation today. The next phase is toward **authentic structured data**, cryptographically signed data that is independently verifiable across the many trust domains of digital trade.
 
 The **legal aspect** is supported by [UNCITRAL Model Law on Electronic Transferable Records](https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records) defining the functional equivalence of paper predecessors and the reliability of systems to safeguard the integrity of trade documentation.
 
