@@ -1,6 +1,6 @@
 # Conformity Assessment Scheme: Digital Trade Documentation
 
-Quick Links: [Repo](https://github.com/dgc-cgn/CAS-Digital-Trade-Documentation)|[DGC](https://github.com/dgc-cgn)
+Quick Links: [Repo](https://github.com/dgc-cgn/CAS-Digital-Trade-Documentation)|[DGC](https://github.com/dgc-cgn)|[ICC](https://iccwbo.org/)|
 
 ## Notice
 
