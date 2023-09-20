@@ -56,7 +56,7 @@ Today, and into the future, **digital** will become the standard substrate stand
 
 ## Grant
 
-This assessment scheme may used for the following  grant:
+This assessment scheme may used for the following grant:
 
 |Certificate Component|Description|
 |---|---|
