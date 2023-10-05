@@ -1,26 +1,31 @@
 # General Reliability
 
-## Overview
+General reliability refers to the consistency and dependability of a system, process, or mechanism in performing its intended function under specific conditions. General reliability is a crucial quality in systems, processes, and products across various domains, ensuring they function effectively, safely, and consistently over time. Reliable systems are trusted by users and are fundamental to the success and safety of organizations and individuals alike.
 
-- Article 12 provides a consistent and technology-neutral general standard for assessing reliability whenever a provision of the Model Law requires the use of a “reliable method” for fulfilling its functions (Page 53).
-- The general reliability standard is applicable to all electronic transferable records management system providers, not only to third-party service providers.
-- The assessment of reliability should be carried out separately for each relevant method in light of the function specifically pursued by the use of that method
+Article 12 establishes a framework for assessing the general reliability of electronic transferable records and their management systems. It provides an objective standard and considers various factors influencing reliability, allowing for flexibility and customization in reliability assessments while also acknowledging the role of party agreements and industry standards.
 
-## Asssement of Reliabilty
+The general reliability standard outlined in Article 12 is applicable to all providers of electronic transferable records management systems. THe standard allows for the customization of reliability assessments for each function fulfilled by the system. This approach provides flexibility, as each provision of the Model Law referring to the use of a reliable method aims at fulfilling different functions.
 
-- The reliability of a method is assessed based on its appropriateness for fulfilling the function for which it is being used, considering all relevant circumstances (Page 18).
-- Relevant circumstances may include operational rules, data integrity assurance, prevention of unauthorized access and use of the system, security of hardware and software, regular and extensive audits by an independent body, declarations by supervisory or accreditation bodies, and compliance with applicable industry standards (Page 18)
+## Assessment Approach
 
-## Industry Standards
+The assessment of reliability should consider various factors, including operational rules, data integrity assurance, prevention of unauthorized access, security of hardware and software, regular audits by independent bodies, declarations by supervisory or accreditation bodies, and compliance with applicable industry standards.
 
-- [ ] Applicable industry standards should preferably be internationally recognized to promote a common notion of reliability across jurisdictions (Page 57).
-- [ ] Reference to industry standards should not violate the principle of technological neutrality or favor the standards of one sector over another.
+Article 12 acknowledges that a method can be deemed reliable if it has proven to fulfill its intended function, either by itself or together with further evidence. This provision acts as a safety clause, validating methods that have effectively achieved their function regardless of any assessment of their reliability.
 
-## Design and Compliance
+## Assessment Critieria
 
-- Designers of electronic transferable records management systems need to comply with the general reliability standard and specific standards to establish commercially viable enterprises (Page 74).
-- The content of Article 12 influences the design of the system since system designers aim to provide reliable systems (Page 54).
+Evidence shall be review and evaluated to support the following:
 
-## Party Agreements
+* Appropriate reliable methods for the fulfillment of the relevant function(s) shall be provided.
+* Operational rules relevant to the assessment of reliability
+* The assurance of data integrity;
+* The ability to prevent unauthorized access to and use of the system
+* The security of hardware and software
+* The regularity and extent of audit by an independent body
+* The existence of a declaration by a supervisory body, an accreditation body or a voluntary scheme regarding the reliability of the method
+* Any applicable industry standard;
+* Proven in fact to have fulfilled the function by itself or together with further evidence.
 
-[ ] Party agreements can be significant, especially in closed systems or when referring to industry standards, as they often contain useful guidance on technical details and may promote technological innovation within the limits of mandatory substantive law (Page 57).
+## Assessment Determination
+
+* The assessor will make an overall determination of **Conforming** or **Non-Conforming** based of the evidence provided above, noting any observations when evaluating the assessment criteria.
