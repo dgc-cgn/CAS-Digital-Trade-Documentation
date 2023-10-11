@@ -18,6 +18,13 @@ These strategic outcomes are underpinned by two broad characteristics: **Reliabi
 * [MLETR](/docs/mletr_ebook_e.pdf)
 * [Trust In Trade](/docs/20230324-ICC-DSI%20TTE-vF.pdf)
 
+## Objectives
+
+Overall goals are: **legal interoperability** and **technical interoperability**
+
+* **Legal Interoperability:** refers to the compatibility and harmonization of different legal systems, frameworks, or regulations to allow for seamless cooperation and exchange of information, services, or resources. It is crucial when dealing with international transactions, cross-border data transfers, or collaborative projects that involve participants from jurisdictions with different legal norms and standards. Legal interoperability is achieved through treaties, agreements, or the adoption of international standards and best practices that resolve conflicts of laws, recognize foreign legal statuses, and ensure mutual legal recognition and enforcement mechanisms.
+* **Technical Interoperability** refers to the ability of different information technology systems, networks, or components to work together efficiently to exchange and use information. This type of interoperability is essential for ensuring that hardware and software from different vendors or developed under different standards can communicate, share data, and perform integrated functions without losing functionality or requiring special adaptation. Technical interoperability is achieved through the adoption of open standards, protocols, and interfaces that allow for the seamless integration and operation of diverse technologies. It is fundamental for the development of interoperable systems, platforms, and services in various domains, including healthcare, finance, telecommunications, and public administration.
+
 ## Conformance Coverage
 
 ### General Reliability

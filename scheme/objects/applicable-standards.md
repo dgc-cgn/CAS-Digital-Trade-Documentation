@@ -49,4 +49,3 @@
 |Documents|Global Document Type Identifier (GDTI)|Identifies the type of the document (physical or electronic) such as order, invoice, receipt and other trade documents, etc. and if needed also the individual document instances via the optional serial number.|
 |Unique Identification|ISO/IEC 15459|This series of standards specifies the generation of unique identifiers for transport units, individual products, individual returnable transport items and groupings of items. It makes provision for a registration authority that recognises issuing
 agencies (e.g., GS1, FIATA, UPU) managing identification systems. Primarily used for automatic identification and data capture applications (barcodes and RFID).|
-
