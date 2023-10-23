@@ -4,8 +4,9 @@
 
 * A **verifiable identitifier (VID)** is an address or identifier that is verifiably bound to at least one set of cryptographic keys that are discoverable via an **associated disovery protocol**
 
-
 ## Object of Conformity Criteria
+
+* A VID must have the following characteristics:
 
 1. A VID must be resolvable securely to obtain the current public key(s) needed to verify that the VID owner controls the VID.
 2. A VID must be resolvable securely to obtain the current network endpoint(s) for establishing a ToIP connection with the entity identified by the VID.
@@ -16,13 +17,15 @@
 
 ## Reliable System Criteria
 
-* A VID is used to issue **electronic transferable record (ETR)** and enable the independent verification of:
+* An **electronic transferable record (ETR)** may exist independently of the system of issuance.  
+* A VID may be used in the issuance of an ETR to enable independent verification outside of the system of issuance. 
+* In evaluating the reliability of a VID the following requirements based on the [general reliability criteria](./obj-criterion.md) will be applied:
 
-  * Criterion 1: Same Information
-  * Criterion 2: Singularity
-  * Criterion 3: Control
-  * Criterion 4: Integrity
-  * Criterion 5: Reliable System
+  1. **Criterion 1: Same Information:** The VID must confirm that the information is the same as what originated from the system of issuance.  
+  2. **Criterion 2: Singularity:** The VID must confirm that the information originates from an authoritative record.
+  3. **Criterion 3: Control:** The VID must demonstrate that the ETR is under exclusive control.
+  4. **Criterion 4: Integrity** The VID must be confirm the integrity of the ETR, including any authorized changes to the ETR.
+  5. **Criterion 5: Reliable System** The VID must demonstrate that it originates from a reliable system used in conjunction with ETR system of issuance.
 
 ## References
 
