@@ -2,16 +2,17 @@
 
 ## Verifiable Identifier
 
-A **verifiable identitifier (VID)** is an address or identifier that is verifiably bound to at least one set of cryptographic keys that are discoverable via an **associated disovery protocol.**
+* A **verifiable identitifier (VID)** is an address or identifier that is verifiably bound to at least one set of cryptographic keys that are discoverable via an **associated disovery protocol.**
 
-A VID does not necessarily need to change (i.e., can remain the same) when the controller’s key(s) are rotated or network endpoint(s) are updated.
+* A VID does not necessarily need to change (i.e., can remain the same) when the controller’s key(s) are rotated or network endpoint(s) are updated.
 
-An **associated discovery protocol** for VIDS allows entities to locate, retrieve, and authenticate public identifiers and system endpoints associated with a particular VID. The discovery protocol ensures the integrity and authenticity of the identifier information through cryptographic proofs and is intended to reduce potential spoofing or fraudulent activities, and to promotes a seamless, secure exchange of information among peers without relying on central authorities or intermediaries.
-
-A VID may be implemented using a variety of schemes, standards and specifications. A non-exhaustive list is provided below:
+* An **associated discovery protocol** for VIDS allows entities to locate, retrieve, and authenticate public identifiers and system endpoints associated with a particular VID. The discovery protocol ensures the integrity and authenticity of the identifier information through cryptographic proofs and is intended to reduce potential spoofing or fraudulent activities, and to promotes a seamless, secure exchange of information among peers without relying on central authorities or intermediaries.
 
 * VIDs may be issued via a **centralized** or **decentralized** system. This distinction should have no bearing on the assessing the technical format of the VID. However, the centralized/decentralized distinction may have implications on the management, recognition or use of the VID within a certain context. This context should be well understood as it may impact the overall assessment.
+
 * Decentralizeds VIDs may be further distinguished as **non-autonomous identifiers** or **autonomous identifiers**. As in the previous point, this may or may not have implications on the assessment.
+
+* A VID may be implemented using a variety of schemes, standards and specifications.
 
 ## Object of Conformity Criteria
 
@@ -28,9 +29,9 @@ A VID must have the following characteristics:
 
 ## Reliable System Criteria
 
-An **electronic transferable record (ETR)** may exist independently of the system of issuance.  
+An **electronic transferable record (ETR)** that incorporates a VID may exist independently of the system of issuance.  
 
-A VID may be used in the issuance of an ETR to enable independent verification outside of the system of issuance.
+A VID must be used in the issuance of an ETR to enable independent verification outside of the system of issuance.
 
 In evaluating the reliability of a VID the following requirements based on the [general reliability criteria](./obj-criterion.md) will be applied:
 
