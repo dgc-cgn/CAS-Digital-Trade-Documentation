@@ -2,7 +2,8 @@
 
 ## Verifiable Identifier
 
-* A **verifiable identitifier (VID)** is an address or identifier that is verifiably bound to at least one set of cryptographic keys that are discoverable via an **associated disovery protocol.**
+* A **verifiable ident
+ifier (VID)** is an address or identifier that is verifiably bound to at least one set of cryptographic keys that are discoverable via an **associated disovery protocol.**
 
 * A VID does not necessarily need to change (i.e., can remain the same) when the controller’s key(s) are rotated or network endpoint(s) are updated.
 
