@@ -1,4 +1,10 @@
-# Applicable Standards
+# Applicable Legislation and Standards
+
+## Legislation
+
+|Country|Legislation|
+|---|---|
+|UK|[Electronic Trade Documents Act 2023](https://www.legislation.gov.uk/ukpga/2023/38/contents/enacted)|
 
 ## Foundational Standards
 
