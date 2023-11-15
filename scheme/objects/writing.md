@@ -17,4 +17,3 @@ The use of writing is instrumental in performing several actions that may occur 
 |ID|Criteria|References|
 |---|---|---|
 |1|Information is in human-readable form|sfsdfs|
-
