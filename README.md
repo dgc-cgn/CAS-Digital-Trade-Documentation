@@ -12,6 +12,12 @@ This Conformity Assessment Scheme (CAS) is a profile under the [Digital Trust Co
 
 ![Scheme Overview](./scheme/objects/obj-conformity.png)
 
+## Revised Scheme
+
+Resulting from latest working group meeting
+
+[Revised Scheme](./scheme/scheme.md)
+
 ## Value Proposition
 
 'The conformity assessment scheme enhances the legal effectiveness of digital trade documentation by means participants demonstrating their general reliability and interoperability which is formally indicated by a statement of verification/validation issued by an independent third party.'
