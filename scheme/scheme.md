@@ -1,5 +1,9 @@
 # Digital Trade Documentation Conformity Assessment Scheme
 
+## Overview
+
+![Revised Scheme](./revised-scheme.png)
+
 ## Identifying the Need for a Scheme
 
 Digital trade, marked by the application of digital technologies to trade and supply chain processes, promises a transformative future. Leveraging these advancements can result in increased efficiency, resilience, and speed for companies, industries, and even nations that deeply hinge on trade for their growth.
