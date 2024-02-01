@@ -11,5 +11,3 @@
 3. [Singularity](./objects/obj-singularity.md)
 4. [Exclusive Control](./objects/obj-exclusive-control.md)
 
-
-

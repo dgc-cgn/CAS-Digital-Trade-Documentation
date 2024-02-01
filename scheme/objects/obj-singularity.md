@@ -16,7 +16,6 @@ Technology Neutrality: The MLETR promotes technology neutrality, meaning it does
 
 Integrity and Singularity: Singularity is closely related to integrity. While integrity ensures that the record remains complete and unaltered (except for changes arising in the normal course of its handling), singularity ensures that there is only one such record that is recognized as the authoritative version.
 
+## Object of Conformity Criteria
 
-## Assessment Approach
-
-
+TODO

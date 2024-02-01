@@ -20,6 +20,6 @@ Exceptions to the unaltered state are changes that are a part of the normal cour
 
 The MLETR does not prescribe specific technologies or methods for ensuring integrity, allowing for the use of various suitable and evolving technologies as long as they maintain the record’s integrity.
 
-## Assessment Approach
+## Object of Conformity Criteria
 
 TODO
