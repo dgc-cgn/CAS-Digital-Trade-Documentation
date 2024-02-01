@@ -8,15 +8,18 @@ This is collaborative effort between International Chamber of Commerce and Digit
 
 This Conformity Assessment Scheme (CAS) is a profile under the [Digital Trust Conformity Assessment Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust). Unless otherwise specified, this CAS is subject to the policies and procedures of the Digital Governance Council. Further details may be found at [Public Information](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.mdhttps://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.md)
 
+## Working Group Draft Scheme
+
+Resulting from latest working group meeting
+
+[Working Group Scheme](./scheme/scheme.md)
+
+
+
 ## Overview
 
 ![Scheme Overview](./scheme/objects/obj-conformity.png)
 
-## Revised Scheme
-
-Resulting from latest working group meeting
-
-[Revised Scheme](./scheme/scheme.md)
 
 ## Value Proposition
 
