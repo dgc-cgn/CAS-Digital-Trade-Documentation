@@ -12,7 +12,7 @@ This Conformity Assessment Scheme (CAS) is a profile under the [Digital Trust Co
 
 Resulting from latest working group meeting
 
-[Working Group Scheme](./scheme/scheme.md)
+[Working Group Scheme](./scheme/wgdraftscheme.md)
 
 
 
