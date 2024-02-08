@@ -1,6 +1,8 @@
 # Object of Conformity: Exclusive Control
 
-## Overview
+[Draft Scheme](./wgdraftscheme.md)
+
+## Context Overview
 
 Exclusive control" in the context of electronic transferable recordsis is crucial because it serves as the electronic equivalent of physical possession of a paper document.
 
@@ -29,7 +31,6 @@ Exclusive control is demonstrated through the use of reliable methods to assert 
 Maintaining the integrity of the electronic transferable record is a fundamental aspect of exclusive control. The record must remain complete and unaltered, except for changes that are part of an authorized transaction.
 
 ## Object of Conformity Criteria
-
 
 |Ref.|Criteria|
 |---|---|

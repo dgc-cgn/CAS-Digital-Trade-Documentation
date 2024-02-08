@@ -1,6 +1,8 @@
 # Working Group Draft Scheme
 
-## Overview
+## Context Overview
+
+This is the working group draft conformity assessment scheme. The digram below depicts a minimum viable product (MVP) that can be developed and tested.
 
 ![Revised Scheme](./revised-scheme.png)
 

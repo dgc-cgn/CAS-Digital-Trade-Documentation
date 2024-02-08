@@ -1,6 +1,8 @@
 # Object of Conformity: Integrity
 
-## Overview
+[Draft Scheme](./wgdraftscheme.md)
+
+## Context Overview
 
 "Integrity" refers to the maintenance of the complete and unaltered nature of an electronic transferable record, except for changes that arise in the normal course of its handling, storage, and display.
 

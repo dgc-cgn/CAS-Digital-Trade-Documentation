@@ -1,10 +1,12 @@
 # Object of Conformity: Reliable System
 
-## System
+[Draft Scheme](./wgdraftscheme.md)
+
+## Context Overview
 
 * Any arrangement of things, protocols and principles which purports to fulfil digitally the legal functions of trade and trade finance documents
 * A **system** may refer to combination of platforms or other technical capabilities.
-* A **reliabe system** is any system wanting that has been assessed in accordance with the conformity assessment scheme.
+* A **reliable system** is any system wanting that has been assessed in accordance with the conformity assessment scheme.
 
 ## Object of Conformity Criteria
 
