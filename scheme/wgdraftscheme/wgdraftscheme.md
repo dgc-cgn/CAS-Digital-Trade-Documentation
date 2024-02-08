@@ -9,7 +9,7 @@
 1. [Reliable Systems Assurance](./obj-reliable-system.md)
 2. [Integrity](./obj-integrity.md)
 3. [Singularity](./obj-singularity.md)
-4. [Exclusive Control](.obj-exclusive-control.md)
+4. [Exclusive Control](./obj-exclusive-control.md)
 
 ### Conformity Assessment Scheme Requirements
 
