@@ -8,6 +8,10 @@
 
 Integrity implies that all the information that is required to be contained in the record is present and can be displayed or produced whenever needed. This includes not just the main content of the record but also any associated data necessary for understanding the record.
 
+### Authenticity of the Record
+
+Verification that the record is issued and signed by the issuer and subsequent entries are made and signed by authorized persons.
+
 ### Unaltered State
 
 The record should remain in an unaltered state throughout its lifecycle. Any changes, modifications, or amendments to the record should be clearly indicated and should not compromise the original information. The record must reliably represent what it purports to represent.
@@ -22,4 +26,7 @@ The MLETR does not prescribe specific technologies or methods for ensuring integ
 
 ## Object of Conformity Criteria
 
-TODO
+Ref.|Criteria|
+|---|---|
+|1|Records MUST be signed by the issuer and all subsquent entries MUST be signed by authorized persons|
+|2|...|

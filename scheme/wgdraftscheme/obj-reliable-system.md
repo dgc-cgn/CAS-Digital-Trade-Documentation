@@ -8,9 +8,12 @@
 
 ## Object of Conformity Criteria
 
-1. Identification of technical standards that the system must meet.
-2. Alignnmet with an approved interoperability framework
-3. Existence within a public register indicating that the system has met the requirements of the conformity assessment scheme.
+|Ref.|Criteria|
+|---|---|
+|1|The technical standards used by the system MUST be identified.|
+|2|The system MUST align with an approved interpoerability framework|
+|3|The system MUST be listed in a public register indicating that it has met the requirements of a recognized conformity assesssment scheme.|
+|4|Suitability of the technical procedures used in the creation, maintenance, and transfer of electronic records to ensure they meet current technological standards|
 
 ## References
 
