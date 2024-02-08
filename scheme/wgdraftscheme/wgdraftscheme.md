@@ -13,7 +13,9 @@ This is the working group draft conformity assessment scheme. The digram below d
 3. [Singularity](./obj-singularity.md)
 4. [Exclusive Control](./obj-exclusive-control.md)
 
-### Conformity Assessment Scheme Requirements
+### General Requirements
+
+General requirements that apply to the implementation and/or accreditaton of the conformity assessment scheme.
 
 1. Accreditation of Independent Entities: Ensuring that entities responsible for verifying the technical procedures' suitability are properly accredited.
 2. Monitoring and Surveillance: Implementing processes to continuously monitor compliance with these criteria and applicabe regulatory provisions.
