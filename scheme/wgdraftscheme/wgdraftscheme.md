@@ -6,7 +6,20 @@ This is the working group draft conformity assessment scheme. The digram below d
 
 ![Revised Scheme](./revised-scheme.png)
 
+## Scope of Application
+
+The initial scope of application is for intended for **trade documents**, but with the view that the scheme can be applied to the related categories of **negotiable documents** and **title documents**.
+
+Comparing the related categories:
+
+- **Trade Documents:**  Documents that can be used in the buying and selling of goods and provide information such as product information,quantity, quality, and other relevant details essential for the transaction.
+- **Title Documents:** Documents that can be used to establish the ownership of the goods and are crucial in the transfer of ownership from the seller to the buyer.
+- **Negotiable Documents:** Documents that can be transferred from one party to another, typically through endorsement or delivery, allowing the holder to claim the goods or receive the benefits outlined in the document.
+
 ### Objects of Conformity
+
+The objects of c
+
 
 1. [Reliable Systems Assurance](./obj-reliable-system.md)
 2. [Integrity](./obj-integrity.md)
