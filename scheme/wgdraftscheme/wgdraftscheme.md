@@ -18,8 +18,7 @@ Comparing the related categories:
 
 ### Objects of Conformity
 
-The objects of c
-
+The objects of conformity
 
 1. [Reliable Systems Assurance](./obj-reliable-system.md)
 2. [Integrity](./obj-integrity.md)
