@@ -28,7 +28,7 @@ The MLETR does not prescribe specific technologies or methods for ensuring integ
 
 ## Object of Conformity Criteria
 
-Ref.|Criteria|
-|---|---|
-|1|Records MUST be signed by the issuer and all subsquent entries MUST be signed by authorized persons|
-|2|...|
+Ref.|Criteria|MLTER|
+|---|---|---|
+|1|Records MUST be signed by the issuer and all subsquent entries MUST be signed by authorized persons||
+|2|...||

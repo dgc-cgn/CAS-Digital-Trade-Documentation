@@ -20,8 +20,8 @@ Integrity and Singularity: Singularity is closely related to integrity. While in
 
 ## Object of Conformity Criteria
 
-|Ref.|Criteria|
-|---|---|
-|1|There MUST be a unique instance of the record.|
-|2|There MUST be clear distinction between a duplicate and the unique instance of the record.|
-|3|There MUST be a clear indication of the transfer of control between controlling parties.
+|Ref.|Criteria|MLTER|
+|---|---|---|
+|1|There MUST be a unique instance of the record.||
+|2|There MUST be clear distinction between a duplicate and the unique instance of the record.||
+|3|There MUST be a clear indication of the transfer of control between controlling parties.||

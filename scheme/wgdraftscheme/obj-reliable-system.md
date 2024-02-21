@@ -10,11 +10,11 @@
 
 ## Object of Conformity Criteria
 
-|Ref.|Criteria|
-|---|---|
-|1|The technical standards used by the system MUST be identified.|
-|2|The system MUST align with an approved interpoerability framework|
-|3|The system MUST be listed in a public register indicating that it has met the requirements of a recognized conformity assesssment scheme.|
+|Ref.|Criteria|MLETR|
+|---|---|---|
+|1|The technical standards used by the system MUST be identified.||
+|2|The system MUST align with an approved interpoerability framework||
+|3|The system MUST be listed in a public register indicating that it has met the requirements of a recognized conformity assesssment scheme.||
 |4|Suitability of the technical procedures used in the creation, maintenance, and transfer of electronic records to ensure they meet current technological standards|
 
 ## References

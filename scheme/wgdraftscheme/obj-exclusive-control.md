@@ -32,11 +32,11 @@ Maintaining the integrity of the electronic transferable record is a fundamental
 
 ## Object of Conformity Criteria
 
-|Ref.|Criteria|
-|---|---|
+|Ref.|Criteria|MLETR|
+|---|---|---|
 |1|There MUST be a unique instance of the record.|
-|2|There MUST be clear distinction between a duplicate and the unique instance of the record.|
-|3|There MUST be a clear indication of the transfer of control between controlling parties.
+|2|There MUST be clear distinction between a duplicate and the unique instance of the record.||
+|3|There MUST be a clear indication of the transfer of control between controlling parties.||
 
 TODO
 
