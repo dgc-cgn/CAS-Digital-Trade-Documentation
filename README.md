@@ -4,19 +4,12 @@ Quick Links: [Repo](https://github.com/dgc-cgn/CAS-Digital-Trade-Documentation)|
 
 This is collaborative effort between International Chamber of Commerce and Digital Governance Council
 
+The finalized assessment worksheet can be downloaded [here](./docs/finalized/CAS-MLETR_ASSESSMENT_TEMPLATE-FINAL_2024-10-15.xlsx)
+
 ## Notice
 
 This Conformity Assessment Scheme (CAS) is a profile under the [Digital Trust Conformity Assessment Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust). Unless otherwise specified, this CAS is subject to the policies and procedures of the Digital Governance Council. Further details may be found at [Public Information](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.mdhttps://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/public-information/README.md)
 
-## Working Group Draft Scheme
-
-Resulting from latest working group meeting
-
-[Working Group Draft Scheme](./scheme/wgdraftscheme/wgdraftscheme.md)
-
-## Overview
-
-![Scheme Overview](./scheme/objects/obj-conformity.png)
 
 
 ## Value Proposition
