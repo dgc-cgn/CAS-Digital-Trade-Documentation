@@ -1,6 +1,6 @@
 # Conformity Assessment Scheme: Digital Trade Documentation
 
-Quick Links: [This repo](https://github.com/dgc-cgn/CAS-Digital-Trade-Documentation)|[DGC](https://github.com/dgc-cgn)|[ICC](https://iccwbo.org/)|
+Quick Links: [Link to this repo](https://github.com/dgc-cgn/CAS-Digital-Trade-Documentation) | [DGC](https://github.com/dgc-cgn) | [ICC](https://iccwbo.org/) |
 
 The Digital Standards Initiative (DSI) of the International Chamber of Commerce (ICC) and the Digital Governance Council (DGC) of Canada have collaborated to develop a Technical Assessment Framework for evaluating the reliability of digital services or networks that enable the transfer of Electronic Transferable Records (ETRs) within supply chains.
 
