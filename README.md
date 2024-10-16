@@ -24,7 +24,7 @@ The assessment framework has undergone initial piloting with several ETR service
 
 ## Get Started
 
-The finalized assessment worksheet can be downloaded [here](./docs/finalized/CAS-MLETR_ASSESSMENT_TEMPLATE-FINAL_2024-10-15.xlsx). 
+The finalized assessment worksheet can be downloaded [here](./docs/finalized/CAS-MLETR_ASSESSMENT_TEMPLATE-FINAL_2024-10-16.xlsx). 
 
 Within this worksheet you can find the instructions on how to get started.
 
