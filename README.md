@@ -33,6 +33,10 @@ Supporting materials:
 * [Q&A Document](./docs/finalized/Q-A.md)
 * Example Verification Statement [PDF](./docs/finalized/example-verification-statement.pdf) [DOCX](./docs/finalized/example-verification-statement.docx)
 
+## Apply
+
+Apply for an independent review [link](https://dgc-cgn.org/product/review/)
+
 
 
 
