@@ -24,6 +24,9 @@ The assessment framework has undergone initial piloting with several ETR service
 
 ## Get Started
 
+* [Webinar Deck October 30, 2024](./docs/finalized/webinar-deck-2024-10-30.pdf)
+* Webinar Recording (to come)
+
 The finalized assessment worksheet can be downloaded [here](./docs/finalized/CAS-MLETR_ASSESSMENT_TEMPLATE-FINAL_2024-10-16.xlsx). 
 
 Within this worksheet you can find the instructions on how to get started.
@@ -33,9 +36,9 @@ Supporting materials:
 * [Q&A Document](./docs/finalized/Q-A.md)
 * Example Verification Statement [PDF](./docs/finalized/example-verification-statement.pdf) [DOCX](./docs/finalized/example-verification-statement.docx)
 
-## Apply
+## Apply for Verification
 
-Apply for an independent review [link](https://dgc-cgn.org/product/review/)
+Apply for an independent review and verification of your self-asssment [link](https://dgc-cgn.org/product/review/)
 
 
 
