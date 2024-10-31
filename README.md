@@ -38,7 +38,7 @@ Supporting materials:
 
 ## Apply for Verification
 
-Apply for an independent review and verification of your self-asssment [link](https://dgc-cgn.org/product/review/)
+Apply for an [independent review and verification](https://dgc-cgn.org/product/review/) of your self-assessment.
 
 
 
