@@ -38,7 +38,7 @@ Supporting materials:
 
 ## Apply for Verification
 
-Apply for an [independent review and verification](https://dgc-cgn.org/product/review/) of your self-assessment.
+Apply for an [independent review and verification](https://dgc-cgn.org/product/tradeready-verification-to-model-law-on-electronic-transferable-records-mletr/) of your self-assessment.
 
 
 
